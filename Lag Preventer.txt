@@ -1,0 +1,16 @@
+import subprocess
+from pathlib import Path
+
+GAME_FILE = "Main-Game.html"
+
+game = Path(__file__).parent / GAME_FILE
+
+if not game.exists():
+    print(f"Could not find {GAME_FILE} next to this script.")
+    input("Press Enter to close...")
+else:
+    subprocess.Popen(
+        f'start msedge --ignore-gpu-blocklist --enable-gpu-rasterization "{game.as_uri()}"',
+        shell=True,
+    )
+    print("Launching Neon Streets in Edge...")
