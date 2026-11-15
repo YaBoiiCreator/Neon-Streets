@@ -3,6 +3,10 @@ gta but worse i will improve over the updates
 NEON STREETS  -  v1.0
 =====================
  scroll to bottom for support 
+ABOUT
+-------------------------
+ THERE ARE NO VIRUSES IN HERE ALL OF THIS WAS CREATED BY USING 
+ ARTIFICAL INTELLIGENCE.
 
 An open-world crime sandbox you play in your browser. Steal cars,
 cause chaos, outrun the cops. Everything in the game is built from
@@ -21,7 +25,7 @@ README.txt         This file.
  
 HOW TO PLAY
 -----------
-1. Double-click Main-Game.html (best in Microsoft Edge or Chrome).
+1. Double-click run.bat.
 2. Create an account (Sign up) or log in.
 3. Click start and play.
  
