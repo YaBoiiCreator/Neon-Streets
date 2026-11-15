@@ -1,13 +1,26 @@
 # Neon-Streets
 gta but worse i will improve over the updates
 NEON STREETS  -  v1.0
-=====================
- scroll to bottom for support 
-ABOUT
+====================
+
+THERE ARE NO VIRUSES!!
 -------------------------
  THERE ARE NO VIRUSES IN HERE ALL OF THIS WAS CREATED BY USING 
  ARTIFICAL INTELLIGENCE.
 
+
+ HOW TO DONWLOAD
+------------------------
+you need to press deh green button 
+then you need to click download file
+not nothing else download file once 
+downloaded find the files app and then
+open it then double click run.bat 
+<img width="1794" height="886" alt="image" src="https://github.com/user-attachments/assets/44c0fca2-7b51-41e1-a4d4-3dcc7e990ab7" />
+
+
+information
+-------------------------
 An open-world crime sandbox you play in your browser. Steal cars,
 cause chaos, outrun the cops. Everything in the game is built from
 code, no ripped assets.
